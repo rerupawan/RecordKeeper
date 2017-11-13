@@ -10,11 +10,6 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Sanwal Singh on 7/9/17.
- * Skype - sanwal.singh
- * Contact No. +91-774-252-6633
- */
 
 public class SQLitDB extends SQLiteOpenHelper {
 
