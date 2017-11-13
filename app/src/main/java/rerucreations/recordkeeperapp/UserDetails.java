@@ -1,10 +1,6 @@
 package rerucreations.recordkeeperapp;
 
-/**
- * Created by Sanwal Singh on 7/9/17.
- * Skype - sanwal.singh
- * Contact No. +91-774-252-6633
- */
+
 
 public class UserDetails {
 
